@@ -1,0 +1,5 @@
+This program implements a simple cloud reporting thermostat that sends real data from a
+Grove temperature module and displays the reading on a Grove LCD display, as well as,
+sending it to the Intel IoT Analytics Dashboard.
+The temperature setting is done using the Grove Rotary Potentiometer.
+A Grove Relay is used to activate a device that can heat or cool.
